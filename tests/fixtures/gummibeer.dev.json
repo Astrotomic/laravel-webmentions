@@ -1,0 +1,1963 @@
+{
+    "type": "feed",
+    "name": "Webmentions",
+    "children": [
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Hardik Shah",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/e5f3af5e252fe63549babe2845d06f46b1fba244c7bf8c388d27507b993d6c48.jpg",
+                "url": "https://twitter.com/hardsshah"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1339559387220893696#favorited-by-29662788",
+            "published": null,
+            "wm-received": "2020-12-18T13:44:24Z",
+            "wm-id": 952754,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1339559387220893696/29662788",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "like-of": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Alex",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/42beee2d2d4b05305530bd2de2c4b47d707a667fc53fecb7f8b1b2b578ae2913.jpg",
+                "url": "https://twitter.com/alex_"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1339559387220893696#favorited-by-50056622",
+            "published": null,
+            "wm-received": "2020-12-18T10:41:04Z",
+            "wm-id": 952643,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1339559387220893696/50056622",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "like-of": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Niko Halink",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/480255906f71b0fbaf71373ec45fbf9dbaa6fdaa59c28b3795ff0097d52e0d11.jpg",
+                "url": "https://twitter.com/nikohalink"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1339559387220893696#favorited-by-28577342",
+            "published": null,
+            "wm-received": "2020-12-18T09:58:58Z",
+            "wm-id": 952572,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1339559387220893696/28577342",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "like-of": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Sidrit Trandafili",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/68d145ceda40f8536e532e9e588d6b3f1d3b5e0f6faac43398c006e8aa90cd3b.jpg",
+                "url": "https://twitter.com/strandafili"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1339559387220893696#favorited-by-6256912",
+            "published": null,
+            "wm-received": "2020-12-17T21:27:17Z",
+            "wm-id": 952139,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1339559387220893696/6256912",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "like-of": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Tom Witkowski",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+                "url": "https://twitter.com/devgummibeer"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1339589461106036739",
+            "published": "2020-12-17T15:13:10+00:00",
+            "wm-received": "2020-12-17T16:37:04Z",
+            "wm-id": 951997,
+            "wm-source": "https://brid-gy.appspot.com/comment/twitter/devgummibeer/1339559387220893696/1339589461106036739",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "content": {
+                "html": "Twitter should do a ping check for links in tweets. 😅\nThanks! 👍\n<a class=\"u-mention\" href=\"http://webmentions.io/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/freekmurze\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/phpastes\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+                "text": "Twitter should do a ping check for links in tweets. 😅\nThanks! 👍"
+            },
+            "in-reply-to": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "in-reply-to",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "// tomhatzer",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/8417649147d8082a5d25e15c8f99994fa72c9da75b05fa3b3208d93e97d6b219.jpg",
+                "url": "https://twitter.com/phpastes"
+            },
+            "url": "https://twitter.com/phpastes/status/1339587513724272642",
+            "published": "2020-12-17T15:05:26+00:00",
+            "wm-received": "2020-12-17T15:11:52Z",
+            "wm-id": 951913,
+            "wm-source": "https://brid-gy.appspot.com/comment/twitter/devgummibeer/1339559387220893696/1339587513724272642",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "content": {
+                "html": "There's a typo in the tweet (additional s): <a href=\"https://webmention.io/\">webmention.io</a> 😊\n<a class=\"u-mention\" href=\"http://webmentions.io/\"></a>\n<a class=\"u-mention\" href=\"https://gummibeer.dev/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/devgummibeer\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/freekmurze\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sebdedeyne\"></a>",
+                "text": "There's a typo in the tweet (additional s): webmention.io 😊"
+            },
+            "in-reply-to": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "in-reply-to",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Placebo Domingo",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/c64ed43d1bcd2c0fa37e0b1d25f5bc26830922e2c9c08287939d126d62b9c40f.jpg",
+                "url": "https://twitter.com/brbcoding"
+            },
+            "url": "https://twitter.com/brbcoding/status/1339582714245238785",
+            "published": "2020-12-17T14:46:21+00:00",
+            "wm-received": "2020-12-17T15:11:31Z",
+            "wm-id": 951911,
+            "wm-source": "https://brid-gy.appspot.com/post/twitter/devgummibeer/1339582714245238785",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "content": {
+                "html": "See kids, if you procrastinate long enough someone else will do it for you 👏\n<a class=\"u-mention\" href=\"https://gummibeer.dev/blog/2020/blade-component-webmentions\"></a>\n<a class=\"u-mention\" href=\"https://gummibeer.dev/blog/2020/blade-component-webmentions/\"></a>",
+                "text": "See kids, if you procrastinate long enough someone else will do it for you 👏"
+            },
+            "mention-of": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "mention-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "David Carr",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/422599a4ef705d05b3b09c9af7ae8071dba04d59b6c00c7723add2f7e794d556.jpg",
+                "url": "https://twitter.com/dcblogdev"
+            },
+            "url": "https://twitter.com/dcblogdev/status/1339566142206177282",
+            "published": "2020-12-17T13:40:30+00:00",
+            "wm-received": "2020-12-17T15:11:30Z",
+            "wm-id": 951910,
+            "wm-source": "https://brid-gy.appspot.com/repost/twitter/devgummibeer/1339559387220893696/1339566142206177282",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "content": {
+                "text": "Thanks to @sebdedeyne and @freekmurze posts I know about webmentions.io and was able to add them to my own blog.\nI've created a bla"
+            },
+            "repost-of": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "repost-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Freek Van der Herten ⚡️",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/389862c8a30722a50adbdf8f8388f6f8ed1a665bc1b69e4355ed98b6f2e01afb.jpg",
+                "url": "https://twitter.com/freekmurze"
+            },
+            "url": "https://twitter.com/freekmurze/status/1339570036936208385",
+            "published": "2020-12-17T13:55:59+00:00",
+            "wm-received": "2020-12-17T15:11:29Z",
+            "wm-id": 951909,
+            "wm-source": "https://brid-gy.appspot.com/repost/twitter/devgummibeer/1339559387220893696/1339570036936208385",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "content": {
+                "text": "Thanks to @sebdedeyne and @freekmurze posts I know about webmentions.io and was able to add them to my own blog.\nI've created a bla"
+            },
+            "repost-of": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "repost-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Mithicher Baro",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/b4ee0c303dd27e391b702d9713c984efbbf051c6948b0dc2164dc17a3747bdd7.png",
+                "url": "https://twitter.com/mithicher"
+            },
+            "url": "https://twitter.com/mithicher/status/1339573298452078592",
+            "published": "2020-12-17T14:08:57+00:00",
+            "wm-received": "2020-12-17T15:11:28Z",
+            "wm-id": 951908,
+            "wm-source": "https://brid-gy.appspot.com/repost/twitter/devgummibeer/1339559387220893696/1339573298452078592",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "content": {
+                "text": "Thanks to @sebdedeyne and @freekmurze posts I know about webmentions.io and was able to add them to my own blog.\nI've created a bla"
+            },
+            "repost-of": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "repost-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Florian Wartner",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/aaa23cd8922852ac8df32c67684fbe7721e16d5ca2bdc833130f18dc20d9ab1d.jpg",
+                "url": "https://twitter.com/fwartner"
+            },
+            "url": "https://twitter.com/fwartner/status/1339586296734392321",
+            "published": "2020-12-17T15:00:36+00:00",
+            "wm-received": "2020-12-17T15:11:27Z",
+            "wm-id": 951907,
+            "wm-source": "https://brid-gy.appspot.com/repost/twitter/devgummibeer/1339559387220893696/1339586296734392321",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "content": {
+                "text": "Thanks to @sebdedeyne and @freekmurze posts I know about webmentions.io and was able to add them to my own blog.\nI've created a bla"
+            },
+            "repost-of": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "repost-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Noel",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/a2ba6735b806f8033b6444329b0d4ff722d78d1d52d8c20217aa841ee3213861.jpg",
+                "url": "https://twitter.com/noelundso"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1339559387220893696#favorited-by-3315163133",
+            "published": null,
+            "wm-received": "2020-12-17T15:11:26Z",
+            "wm-id": 951905,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1339559387220893696/3315163133",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "like-of": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Florian Wartner",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/aaa23cd8922852ac8df32c67684fbe7721e16d5ca2bdc833130f18dc20d9ab1d.jpg",
+                "url": "https://twitter.com/fwartner"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1339559387220893696#favorited-by-1075053560",
+            "published": null,
+            "wm-received": "2020-12-17T15:11:26Z",
+            "wm-id": 951906,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1339559387220893696/1075053560",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "like-of": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Stefan Zweifel",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/3b772e9239dfd15ce8527f90edd45d0678849d57b28725cc69f929bb4f11cf06.jpg",
+                "url": "https://twitter.com/_stefanzweifel"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1339559387220893696#favorited-by-76577495",
+            "published": null,
+            "wm-received": "2020-12-17T15:11:25Z",
+            "wm-id": 951904,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1339559387220893696/76577495",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "like-of": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Freek Van der Herten ⚡️",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/389862c8a30722a50adbdf8f8388f6f8ed1a665bc1b69e4355ed98b6f2e01afb.jpg",
+                "url": "https://twitter.com/freekmurze"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1339559387220893696#favorited-by-97178022",
+            "published": null,
+            "wm-received": "2020-12-17T15:11:24Z",
+            "wm-id": 951903,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1339559387220893696/97178022",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "like-of": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "David Carr",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/422599a4ef705d05b3b09c9af7ae8071dba04d59b6c00c7723add2f7e794d556.jpg",
+                "url": "https://twitter.com/dcblogdev"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1339559387220893696#favorited-by-21011659",
+            "published": null,
+            "wm-received": "2020-12-17T15:11:23Z",
+            "wm-id": 951901,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1339559387220893696/21011659",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "like-of": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "José Cage",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/813485e34c08384ba64d384b450c7c705536cdfb090e9cee4833637645d28f18.jpg",
+                "url": "https://twitter.com/cagejose"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1339559387220893696#favorited-by-944899327",
+            "published": null,
+            "wm-received": "2020-12-17T15:11:23Z",
+            "wm-id": 951902,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1339559387220893696/944899327",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "like-of": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Aidan Casey",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/62ea662ec013b01f7c60ad79f02daab3a94c0d4002466c54129a638f4d724456.jpg",
+                "url": "https://twitter.com/HelloAidanCasey"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1339559387220893696#favorited-by-1113193010060308480",
+            "published": null,
+            "wm-received": "2020-12-17T15:11:22Z",
+            "wm-id": 951899,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1339559387220893696/1113193010060308480",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "like-of": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Mithicher Baro",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/b4ee0c303dd27e391b702d9713c984efbbf051c6948b0dc2164dc17a3747bdd7.png",
+                "url": "https://twitter.com/mithicher"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1339559387220893696#favorited-by-1315799845",
+            "published": null,
+            "wm-received": "2020-12-17T15:11:22Z",
+            "wm-id": 951900,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1339559387220893696/1315799845",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "like-of": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Mark Topper",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/02eabbea6b50b2aa84146d51b1ca8e3bec05efe90d281d37278fd033115023a8.jpg",
+                "url": "https://twitter.com/webmanio"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1339559387220893696#favorited-by-557179005",
+            "published": null,
+            "wm-received": "2020-12-17T15:11:21Z",
+            "wm-id": 951898,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1339559387220893696/557179005",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "like-of": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Placebo Domingo",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/c64ed43d1bcd2c0fa37e0b1d25f5bc26830922e2c9c08287939d126d62b9c40f.jpg",
+                "url": "https://twitter.com/brbcoding"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1339559387220893696#favorited-by-1157124170066595840",
+            "published": null,
+            "wm-received": "2020-12-17T15:11:20Z",
+            "wm-id": 951897,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1339559387220893696/1157124170066595840",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "like-of": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Freek Van der Herten ⚡️",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/389862c8a30722a50adbdf8f8388f6f8ed1a665bc1b69e4355ed98b6f2e01afb.jpg",
+                "url": "https://twitter.com/freekmurze"
+            },
+            "url": "https://twitter.com/freekmurze/status/1339574870179532801",
+            "published": "2020-12-17T14:15:11+00:00",
+            "wm-received": "2020-12-17T15:11:19Z",
+            "wm-id": 951896,
+            "wm-source": "https://brid-gy.appspot.com/post/twitter/devgummibeer/1339574870179532801",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "content": {
+                "html": "🔗 A Blade component to render Webmentions (by <a href=\"https://twitter.com/devgummibeer\">@devgummibeer</a>)\n<a href=\"https://gummibeer.dev/blog/2020/blade-component-webmentions/\">gummibeer.dev/blog/2020/blad…</a>\n<a href=\"https://twitter.com/search?q=%23laravel\">#laravel</a> <a href=\"https://twitter.com/search?q=%23blade\">#blade</a> <a href=\"https://twitter.com/search?q=%23webmentions\">#webmentions</a>",
+                "text": "🔗 A Blade component to render Webmentions (by @devgummibeer)\ngummibeer.dev/blog/2020/blad…\n#laravel #blade #webmentions"
+            },
+            "mention-of": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "mention-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Tom Witkowski",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+                "url": "https://twitter.com/devgummibeer"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1339576053090537472",
+            "published": "2020-12-17T14:19:53+00:00",
+            "wm-received": "2020-12-17T14:34:19Z",
+            "wm-id": 951883,
+            "wm-source": "https://brid-gy.appspot.com/comment/twitter/freekmurze/1339574870179532801/1339576053090537472",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "content": {
+                "html": "Thanks for sharing! 🤩🥳\nCould be that a package for this is incoming. 🚀\n<a class=\"u-mention\" href=\"https://freek.dev/\"></a>\n<a class=\"u-mention\" href=\"https://gummibeer.dev/blog/2020/blade-component-webmentions/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/freekmurze\"></a>",
+                "text": "Thanks for sharing! 🤩🥳\nCould be that a package for this is incoming. 🚀"
+            },
+            "in-reply-to": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "in-reply-to",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Λlex Wulf 🇪🇺",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/b441368c5dc766a254ecf7b8cc748774ae537c39bf4f81ad4c323418f548aae1.jpg",
+                "url": "https://twitter.com/alexfwulf"
+            },
+            "url": "https://twitter.com/alexfwulf/status/1339576771222642689",
+            "published": "2020-12-17T14:22:45+00:00",
+            "wm-received": "2020-12-17T14:34:19Z",
+            "wm-id": 951884,
+            "wm-source": "https://brid-gy.appspot.com/comment/twitter/freekmurze/1339574870179532801/1339576771222642689",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "content": {
+                "html": "It was worth the read just for learning that you can use phpdoc in blade files. 😍\n<a class=\"u-mention\" href=\"https://freek.dev/\"></a>\n<a class=\"u-mention\" href=\"https://gummibeer.dev/blog/2020/blade-component-webmentions/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/devgummibeer\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/freekmurze\"></a>",
+                "text": "It was worth the read just for learning that you can use phpdoc in blade files. 😍"
+            },
+            "in-reply-to": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "in-reply-to",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Richard Radermacher",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/5277a388649f0f63e0236cc171a6fcd7a7b84ea4092ad79c8a6ad52cc8a9b3b8.jpg",
+                "url": "https://twitter.com/radermacher_io"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1339559387220893696#favorited-by-35496266",
+            "published": null,
+            "wm-received": "2020-12-17T13:40:08Z",
+            "wm-id": 951824,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1339559387220893696/35496266",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "like-of": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Sebastian De Deyne",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
+                "url": "https://twitter.com/sebdedeyne"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1339559387220893696#favorited-by-910328509",
+            "published": null,
+            "wm-received": "2020-12-17T13:39:42Z",
+            "wm-id": 951822,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1339559387220893696/910328509",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "like-of": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Sebastian De Deyne",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
+                "url": "https://twitter.com/sebdedeyne"
+            },
+            "url": "https://twitter.com/sebdedeyne/status/1339563832943980546",
+            "published": "2020-12-17T13:31:20+00:00",
+            "wm-received": "2020-12-17T13:39:42Z",
+            "wm-id": 951823,
+            "wm-source": "https://brid-gy.appspot.com/repost/twitter/devgummibeer/1339559387220893696/1339563832943980546",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "content": {
+                "text": "Thanks to @sebdedeyne and @freekmurze posts I know about webmentions.io and was able to add them to my own blog.\nI've created a bla"
+            },
+            "repost-of": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "repost-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Stephen S. Musoke - Homo sapiens #aedifex #Xennial",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/0926e03642b55d9fef65e8d16f3d3ca9c811b35391a24bd256adc875da30c30e.jpg",
+                "url": "https://twitter.com/ssmusoke"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1339559387220893696#favorited-by-78616892",
+            "published": null,
+            "wm-received": "2020-12-17T13:39:41Z",
+            "wm-id": 951821,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1339559387220893696/78616892",
+            "wm-target": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "like-of": "https://gummibeer.dev/blog/2020/blade-component-webmentions/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Sebastian De Deyne",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/3ce609991342657b8b7e99eb7a5c6e3656fbdb1c51575f1464d354b81aaeda86.jpg",
+                "url": "https://twitter.com/sebdedeyne"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1338781735773933568#favorited-by-910328509",
+            "published": null,
+            "wm-received": "2020-12-15T10:04:50Z",
+            "wm-id": 949196,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1338781735773933568/910328509",
+            "wm-target": "https://gummibeer.dev/blog/2020/telegram-newsletter-command/",
+            "like-of": "https://gummibeer.dev/blog/2020/telegram-newsletter-command/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "",
+                "photo": "",
+                "url": ""
+            },
+            "url": "https://freek.dev/community",
+            "published": null,
+            "wm-received": "2020-12-14T13:45:15Z",
+            "wm-id": 948216,
+            "wm-source": "https://freek.dev/community",
+            "wm-target": "https://gummibeer.dev/blog/2020/telegram-newsletter-command",
+            "mention-of": "https://gummibeer.dev/blog/2020/telegram-newsletter-command",
+            "wm-property": "mention-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "",
+                "photo": "",
+                "url": ""
+            },
+            "url": "https://freek.dev/community",
+            "published": null,
+            "wm-received": "2020-12-14T13:44:48Z",
+            "wm-id": 948215,
+            "wm-source": "https://freek.dev/community",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals",
+            "mention-of": "https://gummibeer.dev/blog/2020/human-readable-intervals",
+            "wm-property": "mention-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "poldixd",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/cfcd25617f38db0593745fd7114c1bd8c4fc8765f2247eb02db89b0a3c75ad84.jpg",
+                "url": "https://twitter.com/_Poldi"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1338165382763442177#favorited-by-1874471",
+            "published": null,
+            "wm-received": "2020-12-14T10:57:02Z",
+            "wm-id": 948085,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1338165382763442177/1874471",
+            "wm-target": "https://gummibeer.dev/blog/2020/telegram-newsletter-command/",
+            "like-of": "https://gummibeer.dev/blog/2020/telegram-newsletter-command/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "// tomhatzer",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/8417649147d8082a5d25e15c8f99994fa72c9da75b05fa3b3208d93e97d6b219.jpg",
+                "url": "https://twitter.com/phpastes"
+            },
+            "url": "https://twitter.com/phpastes/status/1338411545194344448",
+            "published": "2020-12-14T09:12:33+00:00",
+            "wm-received": "2020-12-14T09:22:44Z",
+            "wm-id": 948003,
+            "wm-source": "https://brid-gy.appspot.com/repost/twitter/devgummibeer/1338165382763442177/1338411545194344448",
+            "wm-target": "https://gummibeer.dev/blog/2020/telegram-newsletter-command/",
+            "content": {
+                "text": "In my second blog post - I've described how I've set up my new Telegram newsletter bot so you can do the same.\n\n📙 Telegram Newsletter Comman"
+            },
+            "repost-of": "https://gummibeer.dev/blog/2020/telegram-newsletter-command/",
+            "wm-property": "repost-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "",
+                "photo": "",
+                "url": ""
+            },
+            "url": "https://dev.to/gummibeer/human-readable-intervals-1459",
+            "published": null,
+            "wm-received": "2020-12-13T21:26:44Z",
+            "wm-id": 947578,
+            "wm-source": "https://dev.to/gummibeer/human-readable-intervals-1459",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals",
+            "mention-of": "https://gummibeer.dev/blog/2020/human-readable-intervals",
+            "wm-property": "mention-of",
+            "wm-private": false,
+            "rels": {
+                "canonical": "https://gummibeer.dev/blog/2020/human-readable-intervals"
+            }
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "",
+                "photo": "",
+                "url": ""
+            },
+            "url": "https://dev.to/gummibeer/telegram-newsletter-command-45ij",
+            "published": null,
+            "wm-received": "2020-12-13T21:26:12Z",
+            "wm-id": 947577,
+            "wm-source": "https://dev.to/gummibeer/telegram-newsletter-command-45ij",
+            "wm-target": "https://gummibeer.dev/blog/2020/telegram-newsletter-command",
+            "mention-of": "https://gummibeer.dev/blog/2020/telegram-newsletter-command",
+            "wm-property": "mention-of",
+            "wm-private": false,
+            "rels": {
+                "canonical": "https://gummibeer.dev/blog/2020/telegram-newsletter-command"
+            }
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "",
+                "photo": "",
+                "url": ""
+            },
+            "url": "https://habr.com/ru/post/532754/",
+            "published": null,
+            "wm-received": "2020-12-13T21:05:48Z",
+            "wm-id": 947575,
+            "wm-source": "https://habr.com/ru/post/532754/",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "mention-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "mention-of",
+            "wm-private": false,
+            "rels": {
+                "canonical": "https://habr.com/ru/post/532754/"
+            }
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Richard Radermacher",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/5277a388649f0f63e0236cc171a6fcd7a7b84ea4092ad79c8a6ad52cc8a9b3b8.jpg",
+                "url": "https://twitter.com/radermacher_io"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1338165382763442177#favorited-by-35496266",
+            "published": null,
+            "wm-received": "2020-12-13T19:10:29Z",
+            "wm-id": 947509,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1338165382763442177/35496266",
+            "wm-target": "https://gummibeer.dev/blog/2020/telegram-newsletter-command/",
+            "like-of": "https://gummibeer.dev/blog/2020/telegram-newsletter-command/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "",
+                "photo": "",
+                "url": ""
+            },
+            "url": "https://maxyc.ru/programming/laravel/%d1%87%d0%b5%d0%bb%d0%be%d0%b2%d0%b5%d0%ba%d0%be-%d0%bf%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d1%8b%d0%b5-%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d0%b2%d0%b0%d0%bb%d1%8b-%d0%b2%d1%80%d0%b5%d0%bc%d0%b5%d0%bd%d0%b8/",
+            "published": null,
+            "wm-received": "2020-12-13T16:56:53Z",
+            "wm-id": 947473,
+            "wm-source": "https://maxyc.ru/programming/laravel/%d1%87%d0%b5%d0%bb%d0%be%d0%b2%d0%b5%d0%ba%d0%be-%d0%bf%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d1%8b%d0%b5-%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d0%b2%d0%b0%d0%bb%d1%8b-%d0%b2%d1%80%d0%b5%d0%bc%d0%b5%d0%bd%d0%b8/",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "mention-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "mention-of",
+            "wm-private": false,
+            "rels": {
+                "canonical": "https://maxyc.ru/programming/laravel/человеко-понятные-интервалы-времени/"
+            }
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Max Matteo S.",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/3edffda4cb15c7b46561aef738114950645de9d8afd7165cf56dc35eaa49160f.jpg",
+                "url": "https://twitter.com/MaxMatteo2"
+            },
+            "url": "https://twitter.com/MaxMatteo2/status/1338045896873873408",
+            "published": "2020-12-13T08:59:36+00:00",
+            "wm-received": "2020-12-13T09:36:12Z",
+            "wm-id": 947116,
+            "wm-source": "https://brid-gy.appspot.com/repost/twitter/devgummibeer/1337197034860916739/1338045896873873408",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "content": {
+                "text": "Some time ago @marcelpociot tweeted an image that I've implemented in all apps since then and also retweeted several times.\nSo I've used the"
+            },
+            "repost-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "repost-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Max Matteo S.",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/3edffda4cb15c7b46561aef738114950645de9d8afd7165cf56dc35eaa49160f.jpg",
+                "url": "https://twitter.com/MaxMatteo2"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337197034860916739#favorited-by-961733491",
+            "published": null,
+            "wm-received": "2020-12-13T09:36:10Z",
+            "wm-id": 947114,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337197034860916739/961733491",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "like-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Mark Topper",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/02eabbea6b50b2aa84146d51b1ca8e3bec05efe90d281d37278fd033115023a8.jpg",
+                "url": "https://twitter.com/webmanio"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337197034860916739#favorited-by-557179005",
+            "published": null,
+            "wm-received": "2020-12-13T09:36:10Z",
+            "wm-id": 947115,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337197034860916739/557179005",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "like-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Matthijs Lubbers",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/fe6e3f1f798b2ae2846c16b339a447379a15b186cc5ea6d7affb4ae29a91a06e.jpg",
+                "url": "https://twitter.com/MatthijsLubbers"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337197034860916739#favorited-by-54524801",
+            "published": null,
+            "wm-received": "2020-12-12T21:03:24Z",
+            "wm-id": 946618,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337197034860916739/54524801",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "like-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Matthijs Lubbers",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/fe6e3f1f798b2ae2846c16b339a447379a15b186cc5ea6d7affb4ae29a91a06e.jpg",
+                "url": "https://twitter.com/MatthijsLubbers"
+            },
+            "url": "https://twitter.com/MatthijsLubbers/status/1337855807694704640",
+            "published": "2020-12-12T20:24:15+00:00",
+            "wm-received": "2020-12-12T21:03:12Z",
+            "wm-id": 946617,
+            "wm-source": "https://brid-gy.appspot.com/comment/twitter/devgummibeer/1337197034860916739/1337855807694704640",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "content": {
+                "html": "Very useful and well written too! 👍\n<a class=\"u-mention\" href=\"https://gummibeer.dev/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/devgummibeer\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/marcelpociot\"></a>",
+                "text": "Very useful and well written too! 👍"
+            },
+            "in-reply-to": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "in-reply-to",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Tom Witkowski",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+                "url": "https://twitter.com/devgummibeer"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337860537942757378",
+            "published": "2020-12-12T20:43:03+00:00",
+            "wm-received": "2020-12-12T21:02:43Z",
+            "wm-id": 946616,
+            "wm-source": "https://brid-gy.appspot.com/comment/twitter/devgummibeer/1337197034860916739/1337860537942757378",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "content": {
+                "html": "Thanks! 🙂\nI'm super happy about the last part! 🥳\nAs it's my first post and it's not that easy to write and publish to everyone without any initial feedback.\nSo that's really motivating! 🤩\n<a class=\"u-mention\" href=\"https://twitter.com/MatthijsLubbers\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/marcelpociot\"></a>",
+                "text": "Thanks! 🙂\nI'm super happy about the last part! 🥳\nAs it's my first post and it's not that easy to write and publish to everyone without any initial feedback.\nSo that's really motivating! 🤩"
+            },
+            "in-reply-to": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "in-reply-to",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "ángel",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/1d73fa87c54909ae684f6ee0b6e67fe934c0223729502d7bacf7d45ca1983bd6.jpg",
+                "url": "https://twitter.com/abr4xas"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337197034860916739#favorited-by-99199905",
+            "published": null,
+            "wm-received": "2020-12-12T11:49:56Z",
+            "wm-id": 946277,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337197034860916739/99199905",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "like-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Mat",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/5c3b304fd1f5808107c1cb3c2809cfcdbb0f1be6a046b7609b9b817f62577bdb.jpg",
+                "url": "https://twitter.com/dakira"
+            },
+            "url": "https://twitter.com/dakira/status/1337700067352965120",
+            "published": "2020-12-12T10:05:23+00:00",
+            "wm-received": "2020-12-12T10:58:22Z",
+            "wm-id": 946242,
+            "wm-source": "https://brid-gy.appspot.com/comment/twitter/devgummibeer/1337484705462185986/1337700067352965120",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "content": {
+                "html": "This is really nice. Until now I use constants like THIRTY_MINUTES = 30 * 60\n<a class=\"u-mention\" href=\"https://gummibeer.dev/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/devfrey\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/devgummibeer\"></a>",
+                "text": "This is really nice. Until now I use constants like THIRTY_MINUTES = 30 * 60"
+            },
+            "in-reply-to": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "in-reply-to",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Tom Witkowski",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+                "url": "https://twitter.com/devgummibeer"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337701206811176966",
+            "published": "2020-12-12T10:09:55+00:00",
+            "wm-received": "2020-12-12T10:58:22Z",
+            "wm-id": 946243,
+            "wm-source": "https://brid-gy.appspot.com/comment/twitter/devgummibeer/1337484705462185986/1337701206811176966",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "content": {
+                "html": "Glad that it was useful to you. 🥳\n<a class=\"u-mention\" href=\"https://twitter.com/dakira\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/devfrey\"></a>",
+                "text": "Glad that it was useful to you. 🥳"
+            },
+            "in-reply-to": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "in-reply-to",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Max Matteo S.",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/3edffda4cb15c7b46561aef738114950645de9d8afd7165cf56dc35eaa49160f.jpg",
+                "url": "https://twitter.com/MaxMatteo2"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337195988126199810#favorited-by-961733491",
+            "published": null,
+            "wm-received": "2020-12-12T09:43:34Z",
+            "wm-id": 946205,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337195988126199810/961733491",
+            "wm-target": "https://gummibeer.dev/",
+            "like-of": "https://gummibeer.dev/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Anggit Ari Utomo 🐘",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/64298fc3fb24d91288d029d67b7295b1713eb2106f3309161a8150771da2d896.jpg",
+                "url": "https://twitter.com/anggitau_"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337197034860916739#favorited-by-1166406113316622337",
+            "published": null,
+            "wm-received": "2020-12-12T05:06:53Z",
+            "wm-id": 946076,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337197034860916739/1166406113316622337",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "like-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Capaliku",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/1acc5d446ba49eae5973c8353d556e1d18763b0a4420b7dec37bfe679698b16c.jpg",
+                "url": "https://twitter.com/_capaliku"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337195988126199810#favorited-by-1014425869144780802",
+            "published": null,
+            "wm-received": "2020-12-11T22:03:31Z",
+            "wm-id": 945842,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337195988126199810/1014425869144780802",
+            "wm-target": "https://gummibeer.dev/",
+            "like-of": "https://gummibeer.dev/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Aidan Casey",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/24dc8ca53403cac1fda64e080338ab9dd68c037ec1e93b15a7a8c1540c65ff39.jpg",
+                "url": "https://twitter.com/HelloAidanCasey"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337484705462185986#favorited-by-1113193010060308480",
+            "published": null,
+            "wm-received": "2020-12-11T22:03:28Z",
+            "wm-id": 945840,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337484705462185986/1113193010060308480",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "like-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Jeffrey Angenent",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/77e1b004d13baed454f577ac3f141731fc1d078f8fc5c202e2ed744eb16785a3.png",
+                "url": "https://twitter.com/devfrey"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337484705462185986#favorited-by-1102505972789067776",
+            "published": null,
+            "wm-received": "2020-12-11T22:03:28Z",
+            "wm-id": 945841,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337484705462185986/1102505972789067776",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "like-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Tom Witkowski",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+                "url": "https://twitter.com/devgummibeer"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337515752266608642",
+            "published": "2020-12-11T21:52:59+00:00",
+            "wm-received": "2020-12-11T22:03:27Z",
+            "wm-id": 945838,
+            "wm-source": "https://brid-gy.appspot.com/comment/twitter/devgummibeer/1337484705462185986/1337515752266608642",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "content": {
+                "html": "The next is already in the making and there are some more in the pipeline.\nSomething you are super interested in?\n<a class=\"u-mention\" href=\"https://twitter.com/devfrey\"></a>",
+                "text": "The next is already in the making and there are some more in the pipeline.\nSomething you are super interested in?"
+            },
+            "in-reply-to": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "in-reply-to",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Jeffrey Angenent",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/77e1b004d13baed454f577ac3f141731fc1d078f8fc5c202e2ed744eb16785a3.png",
+                "url": "https://twitter.com/devfrey"
+            },
+            "url": "https://twitter.com/devfrey/status/1337511199194423302",
+            "published": "2020-12-11T21:34:54+00:00",
+            "wm-received": "2020-12-11T22:03:27Z",
+            "wm-id": 945839,
+            "wm-source": "https://brid-gy.appspot.com/comment/twitter/devgummibeer/1337484705462185986/1337511199194423302",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "content": {
+                "html": "Thanks for updating the article. Looking forward to your next posts!\n<a class=\"u-mention\" href=\"https://gummibeer.dev/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/devgummibeer\"></a>",
+                "text": "Thanks for updating the article. Looking forward to your next posts!"
+            },
+            "in-reply-to": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "in-reply-to",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "SDK",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/03486ee4f442c120d2ef34f8f370ad4b94e27368106c8c1dd0e42ca9528fb4ed.jpg",
+                "url": "https://twitter.com/sdktalks"
+            },
+            "url": "https://twitter.com/sdktalks/status/1337491649971294209",
+            "published": "2020-12-11T20:17:13+00:00",
+            "wm-received": "2020-12-11T20:56:01Z",
+            "wm-id": 945825,
+            "wm-source": "https://brid-gy.appspot.com/repost/twitter/devgummibeer/1337197034860916739/1337491649971294209",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "content": {
+                "text": "Some time ago @marcelpociot tweeted an image that I've implemented in all apps since then and also retweeted several times.\nSo I've used the"
+            },
+            "repost-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "repost-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Angie Jones @ #GitHubUniverse",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/9a8db37a28b757bf5bd532d12911856db01b5b69870d908b3d2525d589d121bc.jpg",
+                "url": "https://twitter.com/techgirl1908"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337483979281342469#favorited-by-2932738834",
+            "published": null,
+            "wm-received": "2020-12-11T20:05:02Z",
+            "wm-id": 945818,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337483979281342469/2932738834",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "like-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "'fuck' is such a wholesome word",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/f3b3724c020c840b8d581f739c46083db28425eb3b734c90a5a0434dbe9d0607.jpg",
+                "url": "https://twitter.com/theshalvah"
+            },
+            "url": "https://twitter.com/theshalvah/status/1337486502364909568",
+            "published": "2020-12-11T19:56:46+00:00",
+            "wm-received": "2020-12-11T20:04:34Z",
+            "wm-id": 945816,
+            "wm-source": "https://brid-gy.appspot.com/comment/twitter/devgummibeer/1337197034860916739/1337486502364909568",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "content": {
+                "html": "Really useful tip. I love that last one best. Your blog looks pretty neat, btw.\n<a class=\"u-mention\" href=\"https://gummibeer.dev/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/devgummibeer\"></a>",
+                "text": "Really useful tip. I love that last one best. Your blog looks pretty neat, btw."
+            },
+            "in-reply-to": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "in-reply-to",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Tom Witkowski",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+                "url": "https://twitter.com/devgummibeer"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337488105008488449",
+            "published": "2020-12-11T20:03:08+00:00",
+            "wm-received": "2020-12-11T20:04:34Z",
+            "wm-id": 945817,
+            "wm-source": "https://brid-gy.appspot.com/comment/twitter/devgummibeer/1337197034860916739/1337488105008488449",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "content": {
+                "html": "Yeah, the last one was added 5min ago as I've thought that we've done something even fancier with this class in one of our projects. 😂\nSo happy to hear that you like it! 🥳\nWas a very long journey to my new site (&gt;1 year) and it's still not finished. 🙈\n<a class=\"u-mention\" href=\"https://twitter.com/theshalvah\"></a>",
+                "text": "Yeah, the last one was added 5min ago as I've thought that we've done something even fancier with this class in one of our projects. 😂\nSo happy to hear that you like it! 🥳\nWas a very long journey to my new site (>1 year) and it's still not finished. 🙈"
+            },
+            "in-reply-to": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "in-reply-to",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Songhua Hu",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/2cc9752adc705653a01412fcb3d011500c0522c6ea8ade38cdf8b7680cf43df8.jpg",
+                "url": "https://twitter.com/Songhua"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337197034860916739#favorited-by-23150992",
+            "published": null,
+            "wm-received": "2020-12-11T19:03:09Z",
+            "wm-id": 945799,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337197034860916739/23150992",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "like-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "David Carr",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/422599a4ef705d05b3b09c9af7ae8071dba04d59b6c00c7723add2f7e794d556.jpg",
+                "url": "https://twitter.com/dcblogdev"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337195988126199810#favorited-by-21011659",
+            "published": null,
+            "wm-received": "2020-12-11T17:57:24Z",
+            "wm-id": 945774,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337195988126199810/21011659",
+            "wm-target": "https://gummibeer.dev/",
+            "like-of": "https://gummibeer.dev/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Adam Greenough",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/9304c5b592705f11d83e4364bf7320bfc72eab8b1988b83dbab60adc7ac07d0b.png",
+                "url": "https://twitter.com/adam_greenough"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337195988126199810#favorited-by-64769411",
+            "published": null,
+            "wm-received": "2020-12-11T17:57:00Z",
+            "wm-id": 945773,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337195988126199810/64769411",
+            "wm-target": "https://gummibeer.dev/",
+            "like-of": "https://gummibeer.dev/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "José Cage",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/813485e34c08384ba64d384b450c7c705536cdfb090e9cee4833637645d28f18.jpg",
+                "url": "https://twitter.com/cagejose"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337197034860916739#favorited-by-944899327",
+            "published": null,
+            "wm-received": "2020-12-11T15:58:14Z",
+            "wm-id": 945708,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337197034860916739/944899327",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "like-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Vitor Hugo R",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/c6c92a86ab4faa072bdabe490ad1f057944738c531a055f655d541916bc21808.jpg",
+                "url": "https://twitter.com/vitorhugoro1"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337197034860916739#favorited-by-320607393",
+            "published": null,
+            "wm-received": "2020-12-11T15:57:29Z",
+            "wm-id": 945707,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337197034860916739/320607393",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "like-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Peter Brinck 🤘",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/92d1ddcbfe917452564dff25c7ce7f7be55673a8d011d5ce38d8cbc0bbc6be6d.jpg",
+                "url": "https://twitter.com/peterbrinck"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337197034860916739#favorited-by-637338781",
+            "published": null,
+            "wm-received": "2020-12-11T15:05:55Z",
+            "wm-id": 945657,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337197034860916739/637338781",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "like-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Per Steinhorst",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/d578096619ada6c9dd006822969ece1c47b20c150bde532a6e33908add2df794.jpg",
+                "url": "https://twitter.com/PerSteinhorst"
+            },
+            "url": "https://twitter.com/PerSteinhorst/status/1337390792663568387",
+            "published": "2020-12-11T13:36:27+00:00",
+            "wm-received": "2020-12-11T14:11:57Z",
+            "wm-id": 945642,
+            "wm-source": "https://brid-gy.appspot.com/comment/twitter/devgummibeer/1337195988126199810/1337390792663568387",
+            "wm-target": "https://gummibeer.dev/",
+            "content": {
+                "html": "Looks good 👌🚀\n<a class=\"u-mention\" href=\"https://gummibeer.dev/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/devgummibeer\"></a>",
+                "text": "Looks good 👌🚀"
+            },
+            "in-reply-to": "https://gummibeer.dev/",
+            "wm-property": "in-reply-to",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Tom Witkowski",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+                "url": "https://twitter.com/devgummibeer"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337391596086681601",
+            "published": "2020-12-11T13:39:38+00:00",
+            "wm-received": "2020-12-11T14:11:57Z",
+            "wm-id": 945643,
+            "wm-source": "https://brid-gy.appspot.com/comment/twitter/devgummibeer/1337195988126199810/1337391596086681601",
+            "wm-target": "https://gummibeer.dev/",
+            "content": {
+                "html": "Thanks man! 🥳\nWas a long journey. 😅\n<a class=\"u-mention\" href=\"https://twitter.com/PerSteinhorst\"></a>",
+                "text": "Thanks man! 🥳\nWas a long journey. 😅"
+            },
+            "in-reply-to": "https://gummibeer.dev/",
+            "wm-property": "in-reply-to",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Per Steinhorst",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/d578096619ada6c9dd006822969ece1c47b20c150bde532a6e33908add2df794.jpg",
+                "url": "https://twitter.com/PerSteinhorst"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337195988126199810#favorited-by-902828569767837696",
+            "published": null,
+            "wm-received": "2020-12-11T13:26:24Z",
+            "wm-id": 945598,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337195988126199810/902828569767837696",
+            "wm-target": "https://gummibeer.dev/",
+            "like-of": "https://gummibeer.dev/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Tom Witkowski",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+                "url": "https://twitter.com/devgummibeer"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337375800304295938",
+            "published": "2020-12-11T12:36:52+00:00",
+            "wm-received": "2020-12-11T13:26:12Z",
+            "wm-id": 945597,
+            "wm-source": "https://brid-gy.appspot.com/comment/twitter/devgummibeer/1337197034860916739/1337375800304295938",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "content": {
+                "html": "Yeah, switching to static method or depending on your framework primitive container binding would allow you to use CarbonInterval.\nFor me it's always a check of interests and how hard it's really to read and how often do I have.\nA cache TTL of 5min isn't really useful as carbon.\n<a class=\"u-mention\" href=\"https://twitter.com/devfrey\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/marcelpociot\"></a>",
+                "text": "Yeah, switching to static method or depending on your framework primitive container binding would allow you to use CarbonInterval.\nFor me it's always a check of interests and how hard it's really to read and how often do I have.\nA cache TTL of 5min isn't really useful as carbon."
+            },
+            "in-reply-to": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "in-reply-to",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Stefan Zweifel",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/3b772e9239dfd15ce8527f90edd45d0678849d57b28725cc69f929bb4f11cf06.jpg",
+                "url": "https://twitter.com/_stefanzweifel"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337195988126199810#favorited-by-76577495",
+            "published": null,
+            "wm-received": "2020-12-11T12:36:59Z",
+            "wm-id": 945564,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337195988126199810/76577495",
+            "wm-target": "https://gummibeer.dev/",
+            "like-of": "https://gummibeer.dev/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Jeffrey Angenent",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/77e1b004d13baed454f577ac3f141731fc1d078f8fc5c202e2ed744eb16785a3.png",
+                "url": "https://twitter.com/devfrey"
+            },
+            "url": "https://twitter.com/devfrey/status/1337359882492764160",
+            "published": "2020-12-11T11:33:37+00:00",
+            "wm-received": "2020-12-11T11:52:35Z",
+            "wm-id": 945532,
+            "wm-source": "https://brid-gy.appspot.com/comment/twitter/devgummibeer/1337197034860916739/1337359882492764160",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "content": {
+                "html": "Yeah, I usually clarify with a comment. A static method that returns CarbonInterval::totalSeconds could work similarly to your original suggestion. Perhaps I'll give that a try!\n<a class=\"u-mention\" href=\"https://gummibeer.dev/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/devgummibeer\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/marcelpociot\"></a>",
+                "text": "Yeah, I usually clarify with a comment. A static method that returns CarbonInterval::totalSeconds could work similarly to your original suggestion. Perhaps I'll give that a try!"
+            },
+            "in-reply-to": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "in-reply-to",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "William Åström — Web Developer in 🇸🇪",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/5274529568303f28eed3828799f87822e163eb8e914a8c218bfe339508a49633.png",
+                "url": "https://twitter.com/WilliamAstrom"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337195988126199810#favorited-by-84713704",
+            "published": null,
+            "wm-received": "2020-12-11T11:52:04Z",
+            "wm-id": 945531,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337195988126199810/84713704",
+            "wm-target": "https://gummibeer.dev/",
+            "like-of": "https://gummibeer.dev/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Richard Radermacher",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/5277a388649f0f63e0236cc171a6fcd7a7b84ea4092ad79c8a6ad52cc8a9b3b8.jpg",
+                "url": "https://twitter.com/radermacher_io"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337197034860916739#favorited-by-35496266",
+            "published": null,
+            "wm-received": "2020-12-11T11:08:11Z",
+            "wm-id": 945492,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337197034860916739/35496266",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "like-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Jeffrey Angenent",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/77e1b004d13baed454f577ac3f141731fc1d078f8fc5c202e2ed744eb16785a3.png",
+                "url": "https://twitter.com/devfrey"
+            },
+            "url": "https://twitter.com/devfrey/status/1337339814186717184",
+            "published": "2020-12-11T10:13:52+00:00",
+            "wm-received": "2020-12-11T11:08:11Z",
+            "wm-id": 945493,
+            "wm-source": "https://brid-gy.appspot.com/comment/twitter/devgummibeer/1337197034860916739/1337339814186717184",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "content": {
+                "html": "But how would you solve this when using constants?\n<a class=\"u-mention\" href=\"https://gummibeer.dev/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/devgummibeer\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/marcelpociot\"></a>",
+                "text": "But how would you solve this when using constants?"
+            },
+            "in-reply-to": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "in-reply-to",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Tom Witkowski",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+                "url": "https://twitter.com/devgummibeer"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337348487118266369",
+            "published": "2020-12-11T10:48:20+00:00",
+            "wm-received": "2020-12-11T11:08:10Z",
+            "wm-id": 945491,
+            "wm-source": "https://brid-gy.appspot.com/comment/twitter/devgummibeer/1337197034860916739/1337348487118266369",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "content": {
+                "html": "There isn't a solution. If you HAVE TO use constants I would recommend the single integer or multiplication with a comment that clarifies the unit and in best case also what the number means \"5 days in seconds\" or similar.\n<a class=\"u-mention\" href=\"https://twitter.com/devfrey\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/marcelpociot\"></a>",
+                "text": "There isn't a solution. If you HAVE TO use constants I would recommend the single integer or multiplication with a comment that clarifies the unit and in best case also what the number means \"5 days in seconds\" or similar."
+            },
+            "in-reply-to": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "in-reply-to",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Marcel Pociot 🧙‍♂️",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/a803944fa96c8394305c928d5130d60f3d7904b5a96898cff76bd802af0eab03.jpg",
+                "url": "https://twitter.com/marcelpociot"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337349493516365825#favorited-by-132971183",
+            "published": null,
+            "wm-received": "2020-12-11T11:08:09Z",
+            "wm-id": 945490,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337349493516365825/132971183",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "like-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "󠁴󠁯󠁭󠁡󠁳󠁮󠁯󠁲󠁲󠁥Tomas Norre 🐘 🏌️‍🐧 🧡 🏃",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/700a7e175b20af3dd016f962b63d0a4eb2389babdcea9eeb0526a4fbf0b65cb7.jpg",
+                "url": "https://twitter.com/tomasnorre"
+            },
+            "url": "https://twitter.com/tomasnorre/status/1337334284311519235",
+            "published": "2020-12-11T09:51:54+00:00",
+            "wm-received": "2020-12-11T10:14:33Z",
+            "wm-id": 945457,
+            "wm-source": "https://brid-gy.appspot.com/comment/twitter/devgummibeer/1337197034860916739/1337334284311519235",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "content": {
+                "html": "Thanks, should be fairly easy done. If I can read the old number ;)\n<a class=\"u-mention\" href=\"https://gummibeer.dev/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/devgummibeer\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/marcelpociot\"></a>",
+                "text": "Thanks, should be fairly easy done. If I can read the old number ;)"
+            },
+            "in-reply-to": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "in-reply-to",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Tom Witkowski",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+                "url": "https://twitter.com/devgummibeer"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337331627958165505",
+            "published": "2020-12-11T09:41:21+00:00",
+            "wm-received": "2020-12-11T10:14:33Z",
+            "wm-id": 945458,
+            "wm-source": "https://brid-gy.appspot.com/comment/twitter/devgummibeer/1337197034860916739/1337331627958165505",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "content": {
+                "html": "No problem! 😊\nGood luck migrating your code. 😉\n<a class=\"u-mention\" href=\"https://twitter.com/marcelpociot\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/tomasnorre\"></a>",
+                "text": "No problem! 😊\nGood luck migrating your code. 😉"
+            },
+            "in-reply-to": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "in-reply-to",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Marcel Pociot 🧙‍♂️",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/a803944fa96c8394305c928d5130d60f3d7904b5a96898cff76bd802af0eab03.jpg",
+                "url": "https://twitter.com/marcelpociot"
+            },
+            "url": "https://twitter.com/marcelpociot/status/1337332518291460098",
+            "published": "2020-12-11T09:44:53+00:00",
+            "wm-received": "2020-12-11T10:14:00Z",
+            "wm-id": 945456,
+            "wm-source": "https://brid-gy.appspot.com/repost/twitter/devgummibeer/1337197034860916739/1337332518291460098",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "content": {
+                "text": "Some time ago @marcelpociot tweeted an image that I've implemented in all apps since then and also retweeted several times.\nSo I've used the"
+            },
+            "repost-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "repost-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "m@ttias ⚡️",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/d248b54bf6c9a4200c09bc494bd14ddaa4b28d5513b83c9ef6c4109a6e5e7463.jpg",
+                "url": "https://twitter.com/mattiasgeniar"
+            },
+            "url": "https://twitter.com/mattiasgeniar/status/1337332862723502080",
+            "published": "2020-12-11T09:46:15+00:00",
+            "wm-received": "2020-12-11T10:13:59Z",
+            "wm-id": 945455,
+            "wm-source": "https://brid-gy.appspot.com/repost/twitter/devgummibeer/1337197034860916739/1337332862723502080",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "content": {
+                "text": "Some time ago @marcelpociot tweeted an image that I've implemented in all apps since then and also retweeted several times.\nSo I've used the"
+            },
+            "repost-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "repost-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Mior Muhammad Zaki",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/dc3f4750b7591c255bb125d0ebd5a9295de7159cf12181e8904ff2ea6d809045.jpg",
+                "url": "https://twitter.com/crynobone"
+            },
+            "url": "https://twitter.com/crynobone/status/1337337027180724225",
+            "published": "2020-12-11T10:02:48+00:00",
+            "wm-received": "2020-12-11T10:13:58Z",
+            "wm-id": 945454,
+            "wm-source": "https://brid-gy.appspot.com/repost/twitter/devgummibeer/1337197034860916739/1337337027180724225",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "content": {
+                "text": "Some time ago @marcelpociot tweeted an image that I've implemented in all apps since then and also retweeted several times.\nSo I've used the"
+            },
+            "repost-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "repost-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Mior Muhammad Zaki",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/dc3f4750b7591c255bb125d0ebd5a9295de7159cf12181e8904ff2ea6d809045.jpg",
+                "url": "https://twitter.com/crynobone"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337197034860916739#favorited-by-8205802",
+            "published": null,
+            "wm-received": "2020-12-11T10:13:57Z",
+            "wm-id": 945452,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337197034860916739/8205802",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "like-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "I P",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/d506ecc973901f86408f83abc2e92b129c5dbcc7e50ed79cebf20809f0d3ceab.jpg",
+                "url": "https://twitter.com/cyberco"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337197034860916739#favorited-by-755289",
+            "published": null,
+            "wm-received": "2020-12-11T10:13:57Z",
+            "wm-id": 945453,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337197034860916739/755289",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "like-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Philip Manavopoulos",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/315b4446135f45eba524f001eb8995b2cba34cca5f0a69c2b48c23c88e83d39c.jpg",
+                "url": "https://twitter.com/manavo"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337197034860916739#favorited-by-32881834",
+            "published": null,
+            "wm-received": "2020-12-11T10:13:56Z",
+            "wm-id": 945450,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337197034860916739/32881834",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "like-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Tom Witkowski",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+                "url": "https://twitter.com/devgummibeer"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337335054603874304",
+            "published": "2020-12-11T09:54:58+00:00",
+            "wm-received": "2020-12-11T10:13:56Z",
+            "wm-id": 945451,
+            "wm-source": "https://brid-gy.appspot.com/comment/twitter/devgummibeer/1337197034860916739/1337335054603874304",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "content": {
+                "html": "The most important is that you know the target unit. If that's clear everything's being easier. 🥳\n<a class=\"u-mention\" href=\"https://twitter.com/marcelpociot\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/tomasnorre\"></a>",
+                "text": "The most important is that you know the target unit. If that's clear everything's being easier. 🥳"
+            },
+            "in-reply-to": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "in-reply-to",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "poldixd",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/cfcd25617f38db0593745fd7114c1bd8c4fc8765f2247eb02db89b0a3c75ad84.jpg",
+                "url": "https://twitter.com/_Poldi"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337195988126199810#favorited-by-1874471",
+            "published": null,
+            "wm-received": "2020-12-11T07:41:14Z",
+            "wm-id": 945301,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337195988126199810/1874471",
+            "wm-target": "https://gummibeer.dev/",
+            "like-of": "https://gummibeer.dev/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Dennis Koch",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/759b7741ca5b7eb5cac16469424256176f0d4bca33abed03d48bad46ec2177e6.jpg",
+                "url": "https://twitter.com/pixelarbeit"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337197034860916739#favorited-by-1039774511992856576",
+            "published": null,
+            "wm-received": "2020-12-11T07:40:58Z",
+            "wm-id": 945300,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337197034860916739/1039774511992856576",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "like-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "󠁴󠁯󠁭󠁡󠁳󠁮󠁯󠁲󠁲󠁥Tomas Norre 🐘 🏌️‍🐧 🧡 🏃",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/700a7e175b20af3dd016f962b63d0a4eb2389babdcea9eeb0526a4fbf0b65cb7.jpg",
+                "url": "https://twitter.com/tomasnorre"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337197034860916739#favorited-by-197422256",
+            "published": null,
+            "wm-received": "2020-12-11T06:52:37Z",
+            "wm-id": 945270,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337197034860916739/197422256",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "like-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "󠁴󠁯󠁭󠁡󠁳󠁮󠁯󠁲󠁲󠁥Tomas Norre 🐘 🏌️‍🐧 🧡 🏃",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/700a7e175b20af3dd016f962b63d0a4eb2389babdcea9eeb0526a4fbf0b65cb7.jpg",
+                "url": "https://twitter.com/tomasnorre"
+            },
+            "url": "https://twitter.com/tomasnorre/status/1337281238294532097",
+            "published": "2020-12-11T06:21:07+00:00",
+            "wm-received": "2020-12-11T06:52:37Z",
+            "wm-id": 945271,
+            "wm-source": "https://brid-gy.appspot.com/comment/twitter/devgummibeer/1337197034860916739/1337281238294532097",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "content": {
+                "html": "I'll directly test it out in my <a href=\"https://twitter.com/search?q=%23TYPO3\">#TYPO3</a> <a href=\"https://twitter.com/search?q=%23Crawler\">#Crawler</a>. Would help some of my code for readability.\nThanks for sharing.\n<a class=\"u-mention\" href=\"https://gummibeer.dev/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/devgummibeer\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/marcelpociot\"></a>",
+                "text": "I'll directly test it out in my #TYPO3 #Crawler. Would help some of my code for readability.\nThanks for sharing."
+            },
+            "in-reply-to": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "in-reply-to",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Placebo Domingo",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/c64ed43d1bcd2c0fa37e0b1d25f5bc26830922e2c9c08287939d126d62b9c40f.jpg",
+                "url": "https://twitter.com/brbcoding"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337195988126199810#favorited-by-1157124170066595840",
+            "published": null,
+            "wm-received": "2020-12-11T06:03:13Z",
+            "wm-id": 945188,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337195988126199810/1157124170066595840",
+            "wm-target": "https://gummibeer.dev/",
+            "like-of": "https://gummibeer.dev/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Zubair Mohsin",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/480ed6e1c8e86c5107bf393166749638e905a5540d140a509234d0a510cc877f.jpg",
+                "url": "https://twitter.com/Zubairmohsin33"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337197034860916739#favorited-by-2972870264",
+            "published": null,
+            "wm-received": "2020-12-11T05:11:12Z",
+            "wm-id": 945153,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337197034860916739/2972870264",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "like-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Matt Strauss",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/bb63fd43dd5c4002b0bb73fd4e9717062618caad7a6cbebb2a37f5a118db6f3b.jpg",
+                "url": "https://twitter.com/mstrauss_dev"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337195988126199810#favorited-by-2184887796",
+            "published": null,
+            "wm-received": "2020-12-11T02:27:32Z",
+            "wm-id": 944995,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337195988126199810/2184887796",
+            "wm-target": "https://gummibeer.dev/",
+            "like-of": "https://gummibeer.dev/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Aidan Casey",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/24dc8ca53403cac1fda64e080338ab9dd68c037ec1e93b15a7a8c1540c65ff39.jpg",
+                "url": "https://twitter.com/HelloAidanCasey"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337197034860916739#favorited-by-1113193010060308480",
+            "published": null,
+            "wm-received": "2020-12-11T01:27:01Z",
+            "wm-id": 944934,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337197034860916739/1113193010060308480",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "like-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Robin Dirksen",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/21c285970183e6c593d08e5877e992f144bbccaa434174e8e3b1c5a8eb571326.jpg",
+                "url": "https://twitter.com/robindirksen1"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337195988126199810#favorited-by-826787304165560321",
+            "published": null,
+            "wm-received": "2020-12-11T01:05:55Z",
+            "wm-id": 944921,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337195988126199810/826787304165560321",
+            "wm-target": "https://gummibeer.dev/",
+            "like-of": "https://gummibeer.dev/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Tom Witkowski",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+                "url": "https://twitter.com/devgummibeer"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337197359919403011",
+            "published": "2020-12-11T00:47:49+00:00",
+            "wm-received": "2020-12-11T01:05:55Z",
+            "wm-id": 944922,
+            "wm-source": "https://brid-gy.appspot.com/post/twitter/devgummibeer/1337197359919403011",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "content": {
+                "html": "<a href=\"https://twitter.com/Zubairmohsin33\">@Zubairmohsin33</a> here's what you've requested - my new website &amp; blog. 🎉🚀\nI hope it's what you've expected to see - content will follow. There are already several post ideas in my mind. 😉\n<a class=\"u-mention\" href=\"https://gummibeer.dev/blog/2020/human-readable-intervals/\"></a>",
+                "text": "@Zubairmohsin33 here's what you've requested - my new website & blog. 🎉🚀\nI hope it's what you've expected to see - content will follow. There are already several post ideas in my mind. 😉"
+            },
+            "mention-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "mention-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Aidan Casey",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/24dc8ca53403cac1fda64e080338ab9dd68c037ec1e93b15a7a8c1540c65ff39.jpg",
+                "url": "https://twitter.com/HelloAidanCasey"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337195988126199810#favorited-by-1113193010060308480",
+            "published": null,
+            "wm-received": "2020-12-11T01:05:54Z",
+            "wm-id": 944919,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337195988126199810/1113193010060308480",
+            "wm-target": "https://gummibeer.dev/",
+            "like-of": "https://gummibeer.dev/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Aidan Casey",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/24dc8ca53403cac1fda64e080338ab9dd68c037ec1e93b15a7a8c1540c65ff39.jpg",
+                "url": "https://twitter.com/HelloAidanCasey"
+            },
+            "url": "https://twitter.com/HelloAidanCasey/status/1337201411986235392",
+            "published": "2020-12-11T01:03:55+00:00",
+            "wm-received": "2020-12-11T01:05:54Z",
+            "wm-id": 944920,
+            "wm-source": "https://brid-gy.appspot.com/comment/twitter/devgummibeer/1337195988126199810/1337201411986235392",
+            "wm-target": "https://gummibeer.dev/",
+            "content": {
+                "html": "Definitely cleaner and if you don’t get it out there you never will. I think just about 90% of development is redoing the things you hate about how you did it last time. 😜😄\n<a class=\"u-mention\" href=\"https://gummibeer.dev/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/devgummibeer\"></a>",
+                "text": "Definitely cleaner and if you don’t get it out there you never will. I think just about 90% of development is redoing the things you hate about how you did it last time. 😜😄"
+            },
+            "in-reply-to": "https://gummibeer.dev/",
+            "wm-property": "in-reply-to",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Tom Witkowski",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/4c6a0072545bab629442313c0b6d9a2cd920b338d3f3132c0e23a1f1175e382a.jpg",
+                "url": "https://twitter.com/devgummibeer"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337199873624592386",
+            "published": "2020-12-11T00:57:48+00:00",
+            "wm-received": "2020-12-11T01:05:53Z",
+            "wm-id": 944917,
+            "wm-source": "https://brid-gy.appspot.com/comment/twitter/devgummibeer/1337195988126199810/1337199873624592386",
+            "wm-target": "https://gummibeer.dev/",
+            "content": {
+                "html": "Thanks! 🙂\nI didn't want to develop more in the shadows.^^\nSo even if it's possibly not the final result - it's definitely an improvement. 🎉🚀\n<a class=\"u-mention\" href=\"https://twitter.com/HelloAidanCasey\"></a>",
+                "text": "Thanks! 🙂\nI didn't want to develop more in the shadows.^^\nSo even if it's possibly not the final result - it's definitely an improvement. 🎉🚀"
+            },
+            "in-reply-to": "https://gummibeer.dev/",
+            "wm-property": "in-reply-to",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Aidan Casey",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/24dc8ca53403cac1fda64e080338ab9dd68c037ec1e93b15a7a8c1540c65ff39.jpg",
+                "url": "https://twitter.com/HelloAidanCasey"
+            },
+            "url": "https://twitter.com/HelloAidanCasey/status/1337199385097203716",
+            "published": "2020-12-11T00:55:52+00:00",
+            "wm-received": "2020-12-11T01:05:53Z",
+            "wm-id": 944918,
+            "wm-source": "https://brid-gy.appspot.com/comment/twitter/devgummibeer/1337195988126199810/1337199385097203716",
+            "wm-target": "https://gummibeer.dev/",
+            "content": {
+                "html": "Looking good! 😎\n<a class=\"u-mention\" href=\"https://gummibeer.dev/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/devgummibeer\"></a>",
+                "text": "Looking good! 😎"
+            },
+            "in-reply-to": "https://gummibeer.dev/",
+            "wm-property": "in-reply-to",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Ryan Atkins",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/38ed6c7a5a678568746f33838fa614c0d40538202352fc9156ab94164787a979.jpg",
+                "url": "https://twitter.com/ryatkins"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337197034860916739#favorited-by-52865381",
+            "published": null,
+            "wm-received": "2020-12-11T01:05:49Z",
+            "wm-id": 944915,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337197034860916739/52865381",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "like-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "like-of",
+            "wm-private": false
+        },
+        {
+            "type": "entry",
+            "author": {
+                "type": "card",
+                "name": "Robin Dirksen",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/21c285970183e6c593d08e5877e992f144bbccaa434174e8e3b1c5a8eb571326.jpg",
+                "url": "https://twitter.com/robindirksen1"
+            },
+            "url": "https://twitter.com/devgummibeer/status/1337197034860916739#favorited-by-826787304165560321",
+            "published": null,
+            "wm-received": "2020-12-11T01:05:49Z",
+            "wm-id": 944916,
+            "wm-source": "https://brid-gy.appspot.com/like/twitter/devgummibeer/1337197034860916739/826787304165560321",
+            "wm-target": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "like-of": "https://gummibeer.dev/blog/2020/human-readable-intervals/",
+            "wm-property": "like-of",
+            "wm-private": false
+        }
+    ]
+}
