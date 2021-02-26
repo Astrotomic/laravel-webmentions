@@ -5,7 +5,7 @@ namespace Astrotomic\Webmentions\Models;
 use Carbon\Carbon;
 use Illuminate\Support\HtmlString;
 
-abstract class Entry
+abstract class Entry extends Model
 {
     public int $id;
     public string $url;
@@ -54,12 +54,5 @@ abstract class Entry
                 : null,
             'raw' => $entry,
         ]);
-    }
-
-    public function __construct(array $attributes)
-    {
-        foreach ($attributes as $field => $value) {
-            $this->{$field} = $value;
-        }
     }
 }

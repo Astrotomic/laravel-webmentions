@@ -2,9 +2,7 @@
 
 namespace Astrotomic\Webmentions\Models;
 
-use Spatie\DataTransferObject\DataTransferObject;
-
-class Author extends DataTransferObject
+class Author extends Model
 {
     public string $name;
     public ?string $avatar;
