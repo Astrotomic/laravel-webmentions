@@ -9,7 +9,7 @@ use Astrotomic\Webmentions\Models\Reply;
 use Astrotomic\Webmentions\Models\Repost;
 use Illuminate\Support\Collection;
 
-class WebmentionCollection extends Collection
+class WebmentionsCollection extends Collection
 {
     /**
      * @return \Illuminate\Support\Collection|\Astrotomic\Webmentions\Models\Like[]

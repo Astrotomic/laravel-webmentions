@@ -2,7 +2,7 @@
 
 namespace Astrotomic\Webmentions\Tests;
 
-use Astrotomic\Webmentions\Collections\WebmentionCollection;
+use Astrotomic\Webmentions\Collections\WebmentionsCollection;
 use Astrotomic\Webmentions\Facades\Webmentions;
 use Astrotomic\Webmentions\Models\Entry;
 use Astrotomic\Webmentions\Models\Like;
@@ -18,7 +18,7 @@ class ClientTest extends TestCase
     {
         $feed = Webmentions::get('https://gummibeer.dev/blog/2020/human-readable-intervals');
 
-        $this->assertInstanceOf(WebmentionCollection::class, $feed);
+        $this->assertInstanceOf(WebmentionsCollection::class, $feed);
         $this->assertCount(52, $feed);
 
         $feed->each(function ($actual): void {

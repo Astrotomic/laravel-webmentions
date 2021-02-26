@@ -2,7 +2,7 @@
 
 namespace Astrotomic\Webmentions;
 
-use Astrotomic\Webmentions\Collections\WebmentionCollection;
+use Astrotomic\Webmentions\Collections\WebmentionsCollection;
 use Astrotomic\Webmentions\Models\Entry;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Http;
@@ -14,10 +14,10 @@ class Client
 
     protected const PER_PAGE = 1000;
 
-    /** @var WebmentionCollection[] */
+    /** @var WebmentionsCollection[] */
     protected static array $webmentions = [];
 
-    public function get(?string $url = null): WebmentionCollection
+    public function get(?string $url = null): WebmentionsCollection
     {
         $url ??= Request::url();
         $domain = parse_url($url, PHP_URL_HOST);
@@ -47,10 +47,10 @@ class Client
         return $this->get($url)->reposts();
     }
 
-    protected function byDomain(string $domain): WebmentionCollection
+    protected function byDomain(string $domain): WebmentionsCollection
     {
         if (! isset(static::$webmentions[$domain])) {
-            $webmentions = new WebmentionCollection();
+            $webmentions = new WebmentionsCollection();
 
             $page = 0;
             do {
