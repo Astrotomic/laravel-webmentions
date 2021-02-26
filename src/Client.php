@@ -23,7 +23,7 @@ class Client
         $domain = parse_url($url, PHP_URL_HOST);
 
         return $this->byDomain($domain)
-            ->filter(fn(Entry $entry): bool => $this->extractPath($entry->target) === $this->extractPath($url))
+            ->filter(fn (Entry $entry): bool => $this->extractPath($entry->target) === $this->extractPath($url))
             ->values();
     }
 
@@ -55,11 +55,11 @@ class Client
             $page = 0;
             do {
                 $entries = Http::get(self::BASE_URL, [
-                        'token' => config('services.webmention.token'),
-                        'domain' => $domain,
-                        'per-page' => self::PER_PAGE,
-                        'page' => $page,
-                    ])->json()['children'] ?? [];
+                    'token'    => config('services.webmention.token'),
+                    'domain'   => $domain,
+                    'per-page' => self::PER_PAGE,
+                    'page'     => $page,
+                ])->json()['children'] ?? [];
 
                 $webmentions->push(...$entries);
 
@@ -67,7 +67,7 @@ class Client
             } while (count($entries) >= self::PER_PAGE);
 
             static::$webmentions[$domain] = $webmentions
-                ->map(fn(array $entry): ?Entry => Entry::make($entry))
+                ->map(fn (array $entry): ?Entry => Entry::make($entry))
                 ->filter()
                 ->values();
         }

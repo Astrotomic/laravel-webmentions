@@ -2,7 +2,6 @@
 
 namespace Astrotomic\Webmentions\Models;
 
-use Carbon\Carbon;
 use Spatie\DataTransferObject\DataTransferObject;
 
 class Author extends DataTransferObject
@@ -14,9 +13,9 @@ class Author extends DataTransferObject
     public static function fromWebmention(array $author): self
     {
         return new static([
-            'name' => $author['name'],
+            'name'   => $author['name'],
             'avatar' => $author['photo'] ?: null,
-            'url' => $author['url'] ?: null,
+            'url'    => $author['url'] ?: null,
         ]);
     }
 }

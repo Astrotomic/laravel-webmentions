@@ -4,7 +4,6 @@ namespace Astrotomic\Webmentions\Models;
 
 use Carbon\Carbon;
 use Illuminate\Support\HtmlString;
-use Spatie\DataTransferObject\DataTransferObject;
 
 abstract class Entry
 {
@@ -38,10 +37,10 @@ abstract class Entry
     public static function fromWebmention(array $entry): self
     {
         return new static([
-            'id' => $entry['wm-id'],
-            'url' => $entry['url'],
-            'source' => $entry['wm-source'],
-            'target' => $entry['wm-target'],
+            'id'           => $entry['wm-id'],
+            'url'          => $entry['url'],
+            'source'       => $entry['wm-source'],
+            'target'       => $entry['wm-target'],
             'published_at' => $entry['published']
                 ? Carbon::parse($entry['published'])
                 : null,
@@ -49,17 +48,17 @@ abstract class Entry
                 ? Carbon::parse($entry['published'])
                 : Carbon::parse($entry['wm-received']),
             'author' => Author::fromWebmention($entry['author']),
-            'text' => $entry['content']['text'] ?? null,
-            'html' => isset($entry['content']['html'])
+            'text'   => $entry['content']['text'] ?? null,
+            'html'   => isset($entry['content']['html'])
                 ? new HtmlString($entry['content']['html'])
                 : null,
             'raw' => $entry,
         ]);
     }
-    
+
     public function __construct(array $attributes)
     {
-        foreach($attributes as $field => $value) {
+        foreach ($attributes as $field => $value) {
             $this->{$field} = $value;
         }
     }

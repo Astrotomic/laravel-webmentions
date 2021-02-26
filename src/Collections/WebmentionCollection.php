@@ -16,7 +16,7 @@ class WebmentionCollection extends Collection
      */
     public function likes(): Collection
     {
-        return $this->filter(fn(Entry $entry): bool => $entry instanceof Like)->toBase();
+        return $this->filter(fn (Entry $entry): bool => $entry instanceof Like)->toBase();
     }
 
     /**
@@ -24,7 +24,7 @@ class WebmentionCollection extends Collection
      */
     public function mentions(): Collection
     {
-        return $this->filter(fn(Entry $entry): bool => $entry instanceof Mention)->toBase();
+        return $this->filter(fn (Entry $entry): bool => $entry instanceof Mention)->toBase();
     }
 
     /**
@@ -32,7 +32,7 @@ class WebmentionCollection extends Collection
      */
     public function replies(): Collection
     {
-        return $this->filter(fn(Entry $entry): bool => $entry instanceof Reply)->toBase();
+        return $this->filter(fn (Entry $entry): bool => $entry instanceof Reply)->toBase();
     }
 
     /**
@@ -40,6 +40,6 @@ class WebmentionCollection extends Collection
      */
     public function reposts(): Collection
     {
-        return $this->filter(fn(Entry $entry): bool => $entry instanceof Repost)->toBase();
+        return $this->filter(fn (Entry $entry): bool => $entry instanceof Repost)->toBase();
     }
 }

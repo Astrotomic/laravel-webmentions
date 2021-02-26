@@ -2,7 +2,6 @@
 
 namespace Astrotomic\Webmentions\Tests;
 
-
 use Astrotomic\Webmentions\Collections\WebmentionCollection;
 use Astrotomic\Webmentions\Facades\Webmentions;
 use Astrotomic\Webmentions\Models\Entry;
