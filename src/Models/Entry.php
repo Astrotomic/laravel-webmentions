@@ -6,7 +6,7 @@ use Carbon\Carbon;
 use Illuminate\Support\HtmlString;
 use Spatie\DataTransferObject\DataTransferObject;
 
-abstract class Entry extends DataTransferObject
+abstract class Entry
 {
     public int $id;
     public string $url;
@@ -55,5 +55,12 @@ abstract class Entry extends DataTransferObject
                 : null,
             'raw' => $entry,
         ]);
+    }
+    
+    public function __construct(array $attributes)
+    {
+        foreach($attributes as $field => $value) {
+            $this->{$field} = $value;
+        }
     }
 }
