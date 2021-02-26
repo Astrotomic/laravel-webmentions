@@ -58,6 +58,11 @@ $reposts = Webmentions::reposts('https://gummibeer.dev/blog/2020/human-readable-
 
 All items will be a corresponding instance of `\Astrotomic\Webmentions\Models\Like`, `\Astrotomic\Webmentions\Models\Mention`, `\Astrotomic\Webmentions\Models\Reply` or `\Astrotomic\Webmentions\Models\Repost`.
 
+### Caching
+
+The client uses a poor man cache by default - so per runtime every domain is only requested once.
+If you want extended caching behavior you should wrap the calls in a `Cache::remember()` for example.
+
 ## Testing
 
 ```bash
