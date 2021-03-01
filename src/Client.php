@@ -47,6 +47,26 @@ class Client
         return $this->get($url)->reposts();
     }
 
+    /**
+     * @param string|null $url
+     * @return array
+     * @see https://webmention.io/api/count?target={$url}
+     */
+    public function count(?string $url = null): array
+    {
+        $items = $this->get($url);
+
+        return [
+            'count' => $items->count(),
+            'type' => [
+                'like' => $items->likes()->count(),
+                'mention' => $items->mentions()->count(),
+                'reply' => $items->replies()->count(),
+                'repost' => $items->reposts()->count(),
+            ],
+        ];
+    }
+
     protected function byDomain(string $domain): WebmentionsCollection
     {
         if (! isset(static::$webmentions[$domain])) {

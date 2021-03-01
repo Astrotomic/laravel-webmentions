@@ -58,6 +58,23 @@ $reposts = Webmentions::reposts('https://gummibeer.dev/blog/2020/human-readable-
 
 All items will be a corresponding instance of `\Astrotomic\Webmentions\Models\Like`, `\Astrotomic\Webmentions\Models\Mention`, `\Astrotomic\Webmentions\Models\Reply` or `\Astrotomic\Webmentions\Models\Repost`.
 
+If you only need the count of items you can use the `Webmentions::count()` method.
+
+```php
+use Astrotomic\Webmentions\Facades\Webmentions;
+
+$counts = Webmentions::count('https://gummibeer.dev/blog/2020/human-readable-intervals');
+[
+  'count' => 52,
+  'type' => [
+    'like' => 23,
+    'mention' => 8,
+    'reply' => 16,
+    'repost' => 5,
+  ],
+];
+```
+
 ### Caching
 
 The client uses a poor man cache by default - so per runtime every domain is only requested once.

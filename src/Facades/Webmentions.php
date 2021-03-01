@@ -11,6 +11,7 @@ use Illuminate\Support\Facades\Facade;
  * @method static \Illuminate\Support\Collection|\Astrotomic\Webmentions\Models\Mention[] mentions(?string $url = null)
  * @method static \Illuminate\Support\Collection|\Astrotomic\Webmentions\Models\Reply[] replies(?string $url = null)
  * @method static \Illuminate\Support\Collection|\Astrotomic\Webmentions\Models\Repost[] reposts(?string $url = null)
+ * @method static array count(?string $url = null)
  */
 class Webmentions extends Facade
 {

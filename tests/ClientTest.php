@@ -82,4 +82,27 @@ class ClientTest extends TestCase
             $this->assertStringStartsWith('https://gummibeer.dev/blog/2020/human-readable-intervals', $actual->target);
         });
     }
+
+    /** @test */
+    public function it_returns_counts(): void
+    {
+        $counts = Webmentions::count('https://gummibeer.dev/blog/2020/human-readable-intervals');
+
+        $this->assertIsArray($counts);
+        $this->assertArrayHasKey('count', $counts);
+        $this->assertSame(52, $counts['count']);
+
+        $this->assertArrayHasKey('type', $counts);
+        $this->assertArrayHasKey('like', $counts['type']);
+        $this->assertSame(23, $counts['type']['like']);
+
+        $this->assertArrayHasKey('mention', $counts['type']);
+        $this->assertSame(8, $counts['type']['mention']);
+
+        $this->assertArrayHasKey('reply', $counts['type']);
+        $this->assertSame(16, $counts['type']['reply']);
+
+        $this->assertArrayHasKey('repost', $counts['type']);
+        $this->assertSame(5, $counts['type']['repost']);
+    }
 }
