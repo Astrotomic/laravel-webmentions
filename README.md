@@ -80,6 +80,20 @@ $counts = Webmentions::count('https://gummibeer.dev/blog/2020/human-readable-int
 The client uses a poor man cache by default - so per runtime every domain is only requested once.
 If you want extended caching behavior you should wrap the calls in a `Cache::remember()` for example.
 
+### Blade Component
+
+To receive webmentions for your page you have to add two `<link/>` tags to your head.
+This package provides a `<x-webmention-links/>` Blade component that makes it easier for you.
+
+```html
+<x-webmention-links /> <!-- will use the domain of current request -->
+<x-webmention-links domain="gummibeer.dev" /> <!-- will use the given domain -->
+
+<!-- RESULT -->
+<link rel="webmention" href="https://webmention.io/gummibeer.dev/webmention" />
+<link rel="pingback" href="https://webmention.io/gummibeer.dev/xmlrpc" />
+```
+
 ## Testing
 
 ```bash
