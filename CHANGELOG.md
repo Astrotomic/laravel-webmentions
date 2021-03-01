@@ -2,6 +2,10 @@
 
 All notable changes to `laravel-webmentions` will be documented in this file
 
+## v0.3.0 - 2021-03-01
+
+-   add `<x-webmention-links />` Blade component
+
 ## v0.2.0 - 2021-03-01
 
 -   add `\Astrotomic\Webmentions\Client::count($url)` method
