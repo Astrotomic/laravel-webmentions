@@ -10,10 +10,10 @@ class WebmentionLinksTest extends TestCase
     /** @test */
     public function it_renders_with_explicit_domain(): void
     {
-        $this->assertEquals(
+        $this->assertComponentRenders(
             '<link rel="webmention" href="https://webmention.io/gummibeer.dev/webmention" />'.PHP_EOL.
             '<link rel="pingback" href="https://webmention.io/gummibeer.dev/xmlrpc" />',
-            $this->blade('<x-webmention-links domain="gummibeer.dev" />')
+            '<x-webmention-links domain="gummibeer.dev" />'
         );
     }
 
@@ -23,10 +23,10 @@ class WebmentionLinksTest extends TestCase
         $request = Request::create('https://gummibeer.dev', 'GET');
         $this->app->instance('request', $request);
 
-        $this->assertEquals(
+        $this->assertComponentRenders(
             '<link rel="webmention" href="https://webmention.io/gummibeer.dev/webmention" />'.PHP_EOL.
             '<link rel="pingback" href="https://webmention.io/gummibeer.dev/xmlrpc" />',
-            $this->blade('<x-webmention-links />')
+            '<x-webmention-links />'
         );
     }
 }

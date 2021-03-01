@@ -3,6 +3,7 @@
 namespace Astrotomic\Webmentions\Tests;
 
 use Astrotomic\Webmentions\WebmentionsServiceProvider;
+use Gajus\Dindent\Indenter;
 use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Facades\View;
 use Illuminate\Support\Str;
@@ -24,6 +25,23 @@ abstract class TestCase extends OrchestraTestCase
         Http::fake([
             'webmention.io/api/mentions.jf2*' => Http::response(json_decode(file_get_contents(__DIR__.'/fixtures/gummibeer.dev.json'), true), 200),
         ]);
+    }
+
+    public function assertComponentRenders(string $expected, string $template, array $data = []): void
+    {
+        $indenter = new Indenter();
+        $indenter->setElementType('h1', Indenter::ELEMENT_TYPE_INLINE);
+        $indenter->setElementType('del', Indenter::ELEMENT_TYPE_INLINE);
+
+        $blade = (string) $this->blade($template, $data);
+        $indented = $indenter->indent($blade);
+        $cleaned = str_replace(
+            [' >', "\n/>", ' </div>', '> ', "\n>"],
+            ['>', ' />', "\n</div>", ">\n    ", '>'],
+            $indented,
+        );
+
+        $this->assertSame($expected, $cleaned);
     }
 
     protected function blade(string $template, array $data = []): string
