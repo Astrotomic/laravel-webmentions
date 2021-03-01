@@ -86,8 +86,10 @@ To receive webmentions for your page you have to add two `<link/>` tags to your 
 This package provides a `<x-webmention-links/>` Blade component that makes it easier for you.
 
 ```html
-<x-webmention-links /> <!-- will use the domain of current request -->
-<x-webmention-links domain="gummibeer.dev" /> <!-- will use the given domain -->
+<x-webmention-links />
+<!-- will use the domain of current request -->
+<x-webmention-links domain="gummibeer.dev" />
+<!-- will use the given domain -->
 
 <!-- RESULT -->
 <link rel="webmention" href="https://webmention.io/gummibeer.dev/webmention" />
