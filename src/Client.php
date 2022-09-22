@@ -48,8 +48,9 @@ class Client
     }
 
     /**
-     * @param string|null $url
+     * @param  string|null  $url
      * @return array
+     *
      * @see https://webmention.io/api/count?target={$url}
      */
     public function count(?string $url = null): array
