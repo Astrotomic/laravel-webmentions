@@ -12,8 +12,8 @@ jobs:
     strategy:
       fail-fast: true
       matrix:
-        php: [8.1, 8.0, 7.4]
-        laravel: [8.*, 9.*, 10.*]
+        php: [8.3, 8.2, 8.1, 8.0, 7.4]
+        laravel: [8.*, 9.*, 10.*, 11.*]
         dependency-version: [prefer-lowest, prefer-stable]
         exclude:
           - laravel: 9.*
@@ -22,22 +22,17 @@ jobs:
             php: 7.4
           - laravel: 10.*
             php: 8.0
+          - laravel: 11.*
+            php: 7.4
+          - laravel: 11.*
+            php: 8.0
+          - laravel: 11.*
+            php: 8.1
 
     name: P${{ matrix.php }} - L${{ matrix.laravel }} - ${{ matrix.dependency-version }}
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      - name: Cache dependencies
-        uses: actions/cache@v2
-        with:
-          path: ~/.composer/cache/files
-          key: dependencies-laravel-${{ matrix.laravel }}-php-${{ matrix.php }}-composer-${{ hashFiles('composer.json') }}
-          keys: |
-            dependencies-laravel-${{ matrix.laravel }}-php-${{ matrix.php }}-composer-
-            dependencies-laravel-${{ matrix.laravel }}-php-
-            dependencies-laravel-
+      - uses: actions/checkout@v2
 
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
@@ -50,5 +45,4 @@ jobs:
           composer require "laravel/framework:${{ matrix.laravel }}" --no-interaction --no-update
           composer update --${{ matrix.dependency-version }} --prefer-dist --no-interaction --no-suggest
 
-      - name: Execute tests
-        run: vendor/bin/phpunit
+      - run: vendor/bin/phpunit
