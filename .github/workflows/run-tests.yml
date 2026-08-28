@@ -52,8 +52,9 @@ jobs:
 
       - name: Install dependencies
         run: |
+          composer config --global policy.advisories.block false
           composer require "laravel/framework:${{ matrix.laravel }}" --no-interaction --no-update
           composer require "phpunit/phpunit:${{ matrix.phpunit }}" --dev --no-interaction --no-update
-          composer update --${{ matrix.dependency-version }} --prefer-dist --no-interaction --no-suggest
+          composer update --${{ matrix.dependency-version }} --prefer-dist --no-interaction
 
       - run: vendor/bin/phpunit
