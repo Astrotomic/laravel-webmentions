@@ -57,4 +57,4 @@ jobs:
           composer require "phpunit/phpunit:${{ matrix.phpunit }}" --dev --no-interaction --no-update
           composer update --${{ matrix.dependency-version }} --prefer-dist --no-interaction
 
-      - run: vendor/bin/phpunit --do-not-fail-on-phpunit-warning
+      - run: vendor/bin/phpunit
