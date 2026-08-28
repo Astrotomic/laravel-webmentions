@@ -7,8 +7,7 @@ use Illuminate\Http\Request;
 
 class WebmentionLinksTest extends TestCase
 {
-    /** @test */
-    public function it_renders_with_explicit_domain(): void
+    public function test_it_renders_with_explicit_domain(): void
     {
         $this->assertComponentRenders(
             '<link rel="webmention" href="https://webmention.io/gummibeer.dev/webmention" />'.PHP_EOL.
@@ -17,8 +16,7 @@ class WebmentionLinksTest extends TestCase
         );
     }
 
-    /** @test */
-    public function it_renders_for_current_request(): void
+    public function test_it_renders_for_current_request(): void
     {
         $request = Request::create('https://gummibeer.dev', 'GET');
         $this->app->instance('request', $request);
