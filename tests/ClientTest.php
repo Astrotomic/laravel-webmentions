@@ -13,8 +13,7 @@ use Illuminate\Support\Collection;
 
 class ClientTest extends TestCase
 {
-    /** @test */
-    public function it_returns_prepared_feed(): void
+    public function test_it_returns_prepared_feed(): void
     {
         $feed = Webmentions::get('https://gummibeer.dev/blog/2020/human-readable-intervals');
 
@@ -27,8 +26,7 @@ class ClientTest extends TestCase
         });
     }
 
-    /** @test */
-    public function it_returns_likes(): void
+    public function test_it_returns_likes(): void
     {
         $feed = Webmentions::likes('https://gummibeer.dev/blog/2020/human-readable-intervals');
 
@@ -41,8 +39,7 @@ class ClientTest extends TestCase
         });
     }
 
-    /** @test */
-    public function it_returns_mentions(): void
+    public function test_it_returns_mentions(): void
     {
         $feed = Webmentions::mentions('https://gummibeer.dev/blog/2020/human-readable-intervals');
 
@@ -55,8 +52,7 @@ class ClientTest extends TestCase
         });
     }
 
-    /** @test */
-    public function it_returns_replies(): void
+    public function test_it_returns_replies(): void
     {
         $feed = Webmentions::replies('https://gummibeer.dev/blog/2020/human-readable-intervals');
 
@@ -69,8 +65,7 @@ class ClientTest extends TestCase
         });
     }
 
-    /** @test */
-    public function it_returns_reposts(): void
+    public function test_it_returns_reposts(): void
     {
         $feed = Webmentions::reposts('https://gummibeer.dev/blog/2020/human-readable-intervals');
 
@@ -83,8 +78,7 @@ class ClientTest extends TestCase
         });
     }
 
-    /** @test */
-    public function it_returns_counts(): void
+    public function test_it_returns_counts(): void
     {
         $counts = Webmentions::count('https://gummibeer.dev/blog/2020/human-readable-intervals');
 
