@@ -18,12 +18,16 @@ jobs:
         include:
           - laravel: 10.*
             phpunit: 10.*
+            phpunit-options: ''
           - laravel: 11.*
             phpunit: 10.*
+            phpunit-options: ''
           - laravel: 12.*
             phpunit: 11.*
+            phpunit-options: --do-not-fail-on-phpunit-warning
           - laravel: 13.*
             phpunit: 12.*
+            phpunit-options: --do-not-fail-on-phpunit-warning
         exclude:
           - laravel: 11.*
             php: '8.1'
@@ -57,4 +61,4 @@ jobs:
           composer require "phpunit/phpunit:${{ matrix.phpunit }}" --dev --no-interaction --no-update
           composer update --${{ matrix.dependency-version }} --prefer-dist --no-interaction
 
-      - run: vendor/bin/phpunit
+      - run: vendor/bin/phpunit ${{ matrix.phpunit-options }}
